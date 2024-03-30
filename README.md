@@ -1,3 +1,5 @@
+Job Market Analysis
+
 • Leveraged Power Query functionality to import and preprocess data. Devised data cleaning techniques to ensure data accuracy and consistency. 
 
 • Identified key trends and patterns in the job market data. Also, utilized DAX (Data Analysis Expressions) in Power BI to create calculated columns and measures for in-depth data analysis. 
